@@ -13,4 +13,4 @@ The teacher(s) mark the work within the app and send back to the learner's profi
 The teacher comments where necessary and the memo will be uploaded as soon as marking is done. 
 Top learners will be displayed on the dashboard. The teacher can directley contact the learner using the app real-time chat, no WhatsApp allowed for the sake of learners safety and enforcing POPIA act.
 
-Assignment 6: Agile User Stories, Backlog, and Sprint Planning for the System Objectives. This specific submission has 2 issues and 3 projects.  
+This specific submission has 2 issues and 3 projects, Agile User Stories, Backlog, and Sprint Planning for the System Objectives.
